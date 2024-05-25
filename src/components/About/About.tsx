@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import IanFlores from "../../assets/ian.portfolio-removebg-hd.png";
+import IanFlores from "../../assets/profile-pic.png";
 import redux from "../../assets/redux.svg"
 import jwtIcon from "../../assets/jwt.svg";
 import htmlIcon from "../../assets/html-icon.svg";
